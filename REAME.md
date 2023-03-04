@@ -1,0 +1,1 @@
+## Exemplo de Script para criação de Estrutura de Usuários, Diretórios e Permissões no Linux
